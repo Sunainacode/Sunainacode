@@ -5,11 +5,16 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [sunainaagrl.me](sunainaagrl.me)
+- 👨‍💻 Some of my projects are available at [sunainaagrl.me](sunainaagrl.me)
 
 - 📫 How to reach me **sunainachirania@gmail.com**
 
 - ⚡ Fun fact **A night-person! Sleep is the second most important part of my life XD... Programming stays the first. ;-)**
+
+Some of my design links: <br>
+Healthcare website design on Figma: https://www.figma.com/file/2vP2tyFyACnZ5KBVy6mfxx/healthkare?node-id=0%3A1 <br>
+Medlocate Mobile app design on Figma: https://www.figma.com/file/iSbQYyVfIVzlbIyBxO4ppW/medlocate <br>
+Medsup mobile app design on Figma: https://www.figma.com/file/kMRQoHt6sE0eJLnrXqzKvF/MEDSUP <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
