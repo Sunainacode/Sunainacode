@@ -17,7 +17,7 @@
 - ⚡ Fun fact **A night-person! Sleep is the second most important part of my life XD... Programming stays the first**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on:</h3>
 <p>
 <a href="https://linkedin.com/in/sunaina-agarwal-55a6621b5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sunaina-agarwal-55a6621b5" height="30" width="40" /></a>
 <a href="https://instagram.com/sunaina._.ag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sunaina._.ag" height="30" width="40" /></a>
