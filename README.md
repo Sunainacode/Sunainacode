@@ -14,7 +14,7 @@
 - 📫 How to reach me **sunainachirania@gmail.com**
 
 
-- ⚡ Fun fact **A night-person! Sleep is the second most important part of my life XD... Programming stays the first**
+- ⚡ Fun fact **A night-person! Sleep is the second most important part of my life XD... Programming stays the first! **
 
 
 <h3 align="left">Connect with me on:</h3>
