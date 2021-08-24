@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sunaina Agarwal</h1>
+<h1 align="center">Hi 👋, I'm Sunaina</h1>
 <h3 align="center">A budding web developer and a pre-final year undergrad at VIT, Vellore.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunainacode&label=Profile%20views&color=0e75b6&style=flat" alt="sunainacode" /> </p>
