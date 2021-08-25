@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **learning Backend development**
 
-- 💬 Ask me about **HTML5, CSS3, Javascript**
+- 💬 Ask me about **HTML5, CSS3, Javascript, Bootstrap**
 
 - 📫 How to reach me **sunainachirania@gmail.com**
 
