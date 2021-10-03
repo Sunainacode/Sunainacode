@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunainacode&label=Profile%20views&color=0e75b6&style=flat" alt="sunainacode" /> </p>
 
-- 🔭 I have completed my first internship at WiTech India as a front-end web developer. I am looking for more internship opportunities in the Frontend Web Development domain. Currently revisiting algorithms. 
+- 🔭 I have completed my first internship at WiTech India as a front-end web developer. I am looking for more internship opportunities in the Frontend Web Development domain. 
 
 - 👯 I’m looking to collaborate on **Front-end web dev projects**
 
