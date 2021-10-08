@@ -33,7 +33,7 @@
   
 ![Sunainacode GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunainacode&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sunainacode&theme=radical)](https://git.io/streak-stats) 
-
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sunainacode Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sunainacode&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 ### Organizations that I have contributed to:
 
 [<img src= "https://avatars.githubusercontent.com/u/71984945?s=200&v=4" height= "50" width= "50">](https://github.com/IEEE-WIE-VIT)
