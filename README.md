@@ -31,8 +31,16 @@
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunainacode&show_icons=true&locale=en&layout=compact" alt="sunainacode" /></p>
+![Sunainacode GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunainacode&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sunainacode&theme=radical)](https://git.io/streak-stats) 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunainacode&show_icons=true&locale=en" alt="sunainacode" />
+### Organizations that I have contributed to:
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunainacode&" alt="sunainacode" /></p>
+[<img src= "https://avatars.githubusercontent.com/u/71984945?s=200&v=4" height= "50" width= "50">](https://github.com/IEEE-WIE-VIT)
+[<img src= "https://avatars.githubusercontent.com/u/60400682?s=200&v=4" height= "50" width= "50">](https://github.com/ISTE-VIT)
+[<img src= "https://avatars.githubusercontent.com/u/91321327?s=200&v=4" height= "50" width= "50">](https://github.com/TLE-MEC)
+[<img src= "https://avatars.githubusercontent.com/u/67384272?s=200&v=4" height= "50" width= "50">](https://github.com/MakeContributions)
+[<img src= "https://avatars.githubusercontent.com/u/37713493?s=88&v=4" height= "50" width= "50">](https://github.com/firstcontributions)
+[<img src= "https://avatars.githubusercontent.com/u/27850350?s=200&v=4" height= "50" width= "50">](https://github.com/girlscript)
+[<img src= "https://avatars.githubusercontent.com/u/35373879?s=200&v=4" height= "50" width= "50">](https://github.com/zero-to-mastery)
+[<img src= "https://avatars.githubusercontent.com/u/91822756?s=200&v=4" height= "50" width= "50">](https://github.com/DankIndianCoders)
