@@ -25,6 +25,16 @@
 <a href="https://www.hackerrank.com/sunaina_agarwal1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sunaina_agarwal1" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@sunaina73" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@sunaina73" height="30" width="40" /></a></p>
 
+### Organizations that I have contributed to:
+
+[<img src= "https://avatars.githubusercontent.com/u/71984945?s=200&v=4" height= "40" width= "40">](https://github.com/IEEE-WIE-VIT)
+[<img src= "https://avatars.githubusercontent.com/u/60400682?s=200&v=4" height= "40" width= "40">](https://github.com/ISTE-VIT)
+[<img src= "https://avatars.githubusercontent.com/u/91321327?s=200&v=4" height= "40" width= "40">](https://github.com/TLE-MEC)
+[<img src= "https://avatars.githubusercontent.com/u/67384272?s=200&v=4" height= "40" width= "40">](https://github.com/MakeContributions)
+[<img src= "https://avatars.githubusercontent.com/u/37713493?s=88&v=4" height= "40" width= "40">](https://github.com/firstcontributions)
+[<img src= "https://avatars.githubusercontent.com/u/27850350?s=200&v=4" height= "40" width= "40">](https://github.com/girlscript)
+[<img src= "https://avatars.githubusercontent.com/u/35373879?s=200&v=4" height= "40" width= "40">](https://github.com/zero-to-mastery)
+[<img src= "https://avatars.githubusercontent.com/u/91822756?s=200&v=4" height= "40" width= "40">](https://github.com/DankIndianCoders)
 
 <h3 align="left">Languages and Tools familiar to me:</h3>
 <p>
@@ -34,13 +44,4 @@
 ![Sunainacode GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunainacode&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sunainacode&theme=radical)](https://git.io/streak-stats) 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sunainacode Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sunainacode&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-### Organizations that I have contributed to:
 
-[<img src= "https://avatars.githubusercontent.com/u/71984945?s=200&v=4" height= "50" width= "50">](https://github.com/IEEE-WIE-VIT)
-[<img src= "https://avatars.githubusercontent.com/u/60400682?s=200&v=4" height= "50" width= "50">](https://github.com/ISTE-VIT)
-[<img src= "https://avatars.githubusercontent.com/u/91321327?s=200&v=4" height= "50" width= "50">](https://github.com/TLE-MEC)
-[<img src= "https://avatars.githubusercontent.com/u/67384272?s=200&v=4" height= "50" width= "50">](https://github.com/MakeContributions)
-[<img src= "https://avatars.githubusercontent.com/u/37713493?s=88&v=4" height= "50" width= "50">](https://github.com/firstcontributions)
-[<img src= "https://avatars.githubusercontent.com/u/27850350?s=200&v=4" height= "50" width= "50">](https://github.com/girlscript)
-[<img src= "https://avatars.githubusercontent.com/u/35373879?s=200&v=4" height= "50" width= "50">](https://github.com/zero-to-mastery)
-[<img src= "https://avatars.githubusercontent.com/u/91822756?s=200&v=4" height= "50" width= "50">](https://github.com/DankIndianCoders)
