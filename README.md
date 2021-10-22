@@ -1,13 +1,33 @@
-<h1 align="center">Hi 👋, I am Sunaina</h1>
-<h3 align="center">A budding web developer and a pre-final year undergrad at VIT, Vellore.</h3>
+<h1 align="center"> <em>"Hi developers, I am one of you!" </em> <br></h1>
+                                       -Sunaina Agarwal
+                                       
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunainacode&label=Profile%20views&color=0e75b6&style=flat" alt="sunainacode" /> </p>
+<h3 align="center">A frontend web developer | A pre-final year undergrad at VIT, Vellore | Here to contribute my knowledge!</h3>
 
-- 🔭 I have completed my first internship at WiTech India as a front-end web developer. I am looking for more internship opportunities in the Frontend Web Development domain. 
+<img src="https://komarev.com/ghpvc/?username=sunainacode&label=Profile%20views&color=0e75b6&style=flat" alt="sunainacode" /> ~ A big thanks to you for visiting my profile! 
 
-- 👯 I’m looking to collaborate on **Front-end web dev projects**
+<h3>My Work Experience: </h3>I have completed my first internship at WiTech India as a front-end web developer. The internship lasted for three months and my day-to-day role included to design the official website for Witech India chapter. It was a great learning experience. I used Bootstrap 4.5 for the first time and also learnt a lot of new things like working with svg files in websites.
 
-- 🤝 I’m looking for help with **learning Backend development**
+<h3>My achievements: </h3>
+- I have contributed in Hacktoberfest 2021 and successfully accomplished the criteria for swag. I learnt a lot about open source contributions in this participation and enjoyed the overall process. <br>
+- participated in Access Denied hackathon conducted by IETE-VIT chapter and bagged first position for Hvantage problem statement. <br>
+- participated in LinguaFiesta conducted by VIT and secured second position for Chinese language crossword. <br>
+- participating in GirlScript Winter of Contributing and have successfully got merged four documentations so far and am working on more. <br>
+
+<h3>Have a look at my documentations in GWOC:</h3>
+
+- [Basics of C++17](https://github.com/girlscript/winter-of-contributing/blob/C_CPP/C_CPP/C%2B%2B%2017/C%2B%2B17_basics.md)
+- [DFS Traversal in C++](https://github.com/girlscript/winter-of-contributing/blob/C_CPP/C_CPP/Data%20Structures/Binary%20Search%20Tree/DFS_traversal_one_shot.md)
+- [cin and cout in C++](https://github.com/girlscript/winter-of-contributing/blob/C_CPP/C_CPP/Input%20%26%20Output%20Operations/cin_cout-in-cpp.md)
+- [Domain Name basics](https://github.com/girlscript/winter-of-contributing/blob/Frontend_Web_Development_HTML_CSS_JS/Web_Development/FrontEnd/Domain_Name_Basics.md)
+
+<h3> My current tasks </h3>
+
+- I am looking for more internship opportunities in the Frontend Web Development domain. 
+
+- 👯 I’m looking to collaborate on **Web development based projects**
+
+- 🤝 I’m currently focusing on **DSA**
 
 - 💬 Ask me about **HTML5, CSS3, Javascript, Bootstrap**
 
