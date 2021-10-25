@@ -12,7 +12,7 @@
 - I have contributed in Hacktoberfest 2021 and successfully accomplished the criteria for swag. I learnt a lot about open source contributions in this participation and enjoyed the overall process. <br>
 - participated in Access Denied hackathon conducted by IETE-VIT chapter and bagged first position for Hvantage problem statement. <br>
 - participated in LinguaFiesta conducted by VIT and secured second position for Chinese language crossword. <br>
-- participating in GirlScript Winter of Contributing and have successfully got merged four documentations so far and am working on more. <br>
+- participating in GirlScript Winter of Contributing and have successfully got merged five documentations so far and am working on more. <br>
 
 <h3>Have a look at my documentations in GWOC:</h3>
 
@@ -20,6 +20,7 @@
 - [DFS Traversal in C++](https://github.com/girlscript/winter-of-contributing/blob/C_CPP/C_CPP/Data%20Structures/Binary%20Search%20Tree/DFS_traversal_one_shot.md)
 - [cin and cout in C++](https://github.com/girlscript/winter-of-contributing/blob/C_CPP/C_CPP/Input%20%26%20Output%20Operations/cin_cout-in-cpp.md)
 - [Domain Name basics](https://github.com/girlscript/winter-of-contributing/blob/Frontend_Web_Development_HTML_CSS_JS/Web_Development/FrontEnd/Domain_Name_Basics.md)
+- [Rail Fence Cryptography](https://github.com/Sunainacode/winter-of-contributing/blob/C_CPP/C_CPP/Cryptography/Rail_Fence_enc_dec.md)
 
 <h3> My current tasks </h3>
 
