@@ -41,8 +41,7 @@
 <h3 align="left">Connect with me on:</h3>
 <p>
 <a href="https://linkedin.com/in/sunaina-agarwal-55a6621b5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sunaina-agarwal-55a6621b5" height="30" width="40" /></a>
-<a href="https://instagram.com/sunaina._.ag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sunaina._.ag" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sa_123_as" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayeshaa1" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sa_123_as" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sa_123_as" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sunaina_agarwal1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sunaina_agarwal1" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@sunaina73" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@sunaina73" height="30" width="40" /></a></p>
 
