@@ -12,7 +12,7 @@
 - I have contributed in Hacktoberfest 2021 and successfully accomplished the criteria for swag. I learnt a lot about open source contributions in this participation and enjoyed the overall process. <br>
 - participated in Access Denied hackathon conducted by IETE-VIT chapter and bagged first position for Hvantage problem statement. <br>
 - participated in LinguaFiesta conducted by VIT and secured second position for Chinese language crossword. <br>
-- participating in GirlScript Winter of Contributing and have successfully got merged five documentations so far and am working on more. <br>
+- participated in GirlScript Winter of Contributing and have successfully got merged five documentations. <br>
 
 <h3>Have a look at my documentations in GWOC:</h3>
 
