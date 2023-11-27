@@ -2,7 +2,7 @@
                                        -Sunaina Agarwal
                                        
 
-<h3 align="center">A frontend web developer | A pre-final year undergrad at VIT, Vellore | Here to contribute my knowledge!</h3>
+<h3 align="center">A frontend web developer | A graduate from VIT, Vellore | Here to contribute my knowledge!</h3>
 
 <img src="https://komarev.com/ghpvc/?username=sunainacode&label=Profile%20views&color=0e75b6&style=flat" alt="sunainacode" /> ~ A big thanks to you for visiting my profile! 
 
