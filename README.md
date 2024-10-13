@@ -8,10 +8,10 @@
 
 <h3>My Work Experience: </h3>
 I have worked in the following domains - 
-- WiTech India : Frontend Internship : 3 months : Apr'2021-Jun'2021 : Remote : HTML5, CSS3, Bootstrap 4.5, Javascript : Designed the homepage for WiTech India from scratch.
-- Amazon India : Software Developer Internship : 6 months : Jan'2023-Jun'2023 : Bengaluru : Scala, Java, Mockito, JUnit, React, AWS - Glue, AWS - S3, AWS - DynamoDB, SQL : Migrated a service from Apache to AWS Glue, Created a dashboard for visualizing workflows using React and SQL, Multiple adhoc tasks and tickets
-- Ericsson India : Integration Engineer : 9 months : Aug'2023-Apr'2024 : Gurugram : Linux, Shell scripting, Automation, Firmware upgrades : Performed mutiple firmware upgrades and license updates for ENM and ENIQ, wrote multiple automation scripts which saves thousands of human hours
-- Amazon India : Software Developer : Present : Apr'2024-Present : Bengaluru : Java, Spring, JSP, Android/iOS, GenAI : Multiple migrations and tickets
+- WiTech India : Frontend Internship : 3 months : Apr'2021-Jun'2021 : Remote : HTML5, CSS3, Bootstrap 4.5, Javascript : Designed the homepage for WiTech India from scratch. <br>
+- Amazon India : Software Developer Internship : 6 months : Jan'2023-Jun'2023 : Bengaluru : Scala, Java, Mockito, JUnit, React, AWS - Glue, AWS - S3, AWS - DynamoDB, SQL : Migrated a service from Apache to AWS Glue, Created a dashboard for visualizing workflows using React and SQL, Multiple adhoc tasks and tickets. <br>
+- Ericsson India : Integration Engineer : 9 months : Aug'2023-Apr'2024 : Gurugram : Linux, Shell scripting, Automation, Firmware upgrades : Performed mutiple firmware upgrades and license updates for ENM and ENIQ, wrote multiple automation scripts which saves thousands of human hours. <br>
+- Amazon India : Software Developer : Present : Apr'2024-Present : Bengaluru : Java, Spring, JSP, Android/iOS, GenAI : Multiple migrations and tickets. <br>
 
 <h3>My achievements: </h3>
 - I have contributed in Hacktoberfest 2021 and successfully accomplished the criteria for swag. I learnt a lot about open source contributions in this participation and enjoyed the overall process. <br>
